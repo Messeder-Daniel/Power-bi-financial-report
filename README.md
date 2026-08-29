@@ -46,7 +46,7 @@ O relatório utiliza a base **Financial Sample** para analisar vendas, lucro, un
 ```text
 .
 ├── data/
-│   └── Financial Sample.xlsx
+│   └── sample_financial.pbix
 ├── images/
 │   ├── vendas-produtos-segmentos.png
 │   ├── vendas-lucro-pais.png
@@ -84,6 +84,7 @@ A publicação no Power BI Service e a exportação direta para PowerPoint não 
 
 - Dataset: **Financial Sample**, disponibilizado para o desafio.
 - Repositório de referência: [julianazanelatto/power_bi_analyst](https://github.com/julianazanelatto/power_bi_analyst)
+- Relatório PBIX de referência do curso: `data/sample_financial.pbix`
 
 ## Autor
 
